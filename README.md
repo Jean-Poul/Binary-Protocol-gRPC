@@ -1,5 +1,7 @@
 # gRPC  
 ## Playground  
+  
+Used BloomRPC for testing  
 
 ---  
   
